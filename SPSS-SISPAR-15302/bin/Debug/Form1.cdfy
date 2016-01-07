@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CudafyModule Version="1.29.5576.13786" Name="Form1" DebugInfo="false" HasCudaSourceCode="false" HasPTX="true" HasBinary="false">
+  <CudaSourceCode></CudaSourceCode>
+  <PTXMODULES>
+    <PTXMODULE Platform="x86" Arch="sm_20" SourceCodeFile="2dda601d-3e1b-4c6d-a957-a7940afb6866">Ly8NCi8vIEdlbmVyYXRlZCBieSBOVklESUEgTlZWTSBDb21waWxlcg0KLy8NCi8vIENvbXBpbGVyIEJ1aWxkIElEOiBDTC0xOTgwNTQ3NA0KLy8gQ3VkYSBjb21waWxhdGlvbiB0b29scywgcmVsZWFzZSA3LjUsIFY3LjUuMTYNCi8vIEJhc2VkIG9uIExMVk0gMy40c3ZuDQovLw0KDQoudmVyc2lvbiA0LjMNCi50YXJnZXQgc21fMjANCi5hZGRyZXNzX3NpemUgMzINCg0KCS8vIC5nbG9ibAlhZGRWZWN0b3INCg0KLnZpc2libGUgLmVudHJ5IGFkZFZlY3RvcigNCgkucGFyYW0gLnUzMiBhZGRWZWN0b3JfcGFyYW1fMCwNCgkucGFyYW0gLnUzMiBhZGRWZWN0b3JfcGFyYW1fMSwNCgkucGFyYW0gLnUzMiBhZGRWZWN0b3JfcGFyYW1fMiwNCgkucGFyYW0gLnUzMiBhZGRWZWN0b3JfcGFyYW1fMywNCgkucGFyYW0gLnUzMiBhZGRWZWN0b3JfcGFyYW1fNCwNCgkucGFyYW0gLnUzMiBhZGRWZWN0b3JfcGFyYW1fNSwNCgkucGFyYW0gLnUzMiBhZGRWZWN0b3JfcGFyYW1fNg0KKQ0Kew0KCS5yZWcgLnByZWQgCSVwPDM+Ow0KCS5yZWcgLmYzMiAJJWY8ND47DQoJLnJlZyAuYjMyIAklcjwyMD47DQoNCg0KCWxkLnBhcmFtLnUzMiAJJXI4LCBbYWRkVmVjdG9yX3BhcmFtXzBdOw0KCWxkLnBhcmFtLnUzMiAJJXI5LCBbYWRkVmVjdG9yX3BhcmFtXzJdOw0KCWxkLnBhcmFtLnUzMiAJJXIxMCwgW2FkZFZlY3Rvcl9wYXJhbV80XTsNCglsZC5wYXJhbS51MzIgCSVyMTEsIFthZGRWZWN0b3JfcGFyYW1fNl07DQoJbW92LnUzMiAJJXIxMiwgJW50aWQueDsNCgltb3YudTMyIAklcjEzLCAlY3RhaWQueDsNCgltb3YudTMyIAklcjE0LCAldGlkLng7DQoJbWFkLmxvLnMzMiAJJXIxOSwgJXIxMiwgJXIxMywgJXIxNDsNCglzZXRwLmdlLnMzMgklcDEsICVyMTksICVyMTE7DQoJQCVwMSBicmEgCUJCMF8zOw0KDQoJY3Z0YS50by5nbG9iYWwudTMyIAklcjIsICVyMTA7DQoJY3Z0YS50by5nbG9iYWwudTMyIAklcjMsICVyOTsNCgljdnRhLnRvLmdsb2JhbC51MzIgCSVyNCwgJXI4Ow0KCW1vdi51MzIgCSVyNSwgJW5jdGFpZC54Ow0KDQpCQjBfMjoNCglzaGwuYjMyIAklcjE1LCAlcjE5LCAyOw0KCWFkZC5zMzIgCSVyMTYsICVyMywgJXIxNTsNCglsZC5nbG9iYWwuZjMyIAklZjEsIFslcjE2XTsNCglhZGQuczMyIAklcjE3LCAlcjQsICVyMTU7DQoJbGQuZ2xvYmFsLmYzMiAJJWYyLCBbJXIxN107DQoJYWRkLmYzMiAJJWYzLCAlZjIsICVmMTsNCglhZGQuczMyIAklcjE4LCAlcjIsICVyMTU7DQoJc3QuZ2xvYmFsLmYzMiAJWyVyMThdLCAlZjM7DQoJYWRkLnMzMiAJJXIxOSwgJXI1LCAlcjE5Ow0KCXNldHAubHQuczMyCSVwMiwgJXIxOSwgJXIxMTsNCglAJXAyIGJyYSAJQkIwXzI7DQoNCkJCMF8zOg0KCXJldDsNCn0NCg0KCS8vIC5nbG9ibAlwb3dlclZlY3Rvcg0KLnZpc2libGUgLmVudHJ5IHBvd2VyVmVjdG9yKA0KCS5wYXJhbSAudTMyIHBvd2VyVmVjdG9yX3BhcmFtXzAsDQoJLnBhcmFtIC51MzIgcG93ZXJWZWN0b3JfcGFyYW1fMSwNCgkucGFyYW0gLnUzMiBwb3dlclZlY3Rvcl9wYXJhbV8yLA0KCS5wYXJhbSAudTMyIHBvd2VyVmVjdG9yX3BhcmFtXzMsDQoJLnBhcmFtIC5mMzIgcG93ZXJWZWN0b3JfcGFyYW1fNCwNCgkucGFyYW0gLnUzMiBwb3dlclZlY3Rvcl9wYXJhbV81DQopDQp7DQoJLnJlZyAucHJlZCAJJXA8Mz47DQoJLnJlZyAuZjMyIAklZjw1PjsNCgkucmVnIC5iMzIgCSVyPDE3PjsNCg0KDQoJbGQucGFyYW0udTMyIAklcjcsIFtwb3dlclZlY3Rvcl9wYXJhbV8wXTsNCglsZC5wYXJhbS51MzIgCSVyOCwgW3Bvd2VyVmVjdG9yX3BhcmFtXzJdOw0KCWxkLnBhcmFtLmYzMiAJJWYxLCBbcG93ZXJWZWN0b3JfcGFyYW1fNF07DQoJbGQucGFyYW0udTMyIAklcjksIFtwb3dlclZlY3Rvcl9wYXJhbV81XTsNCgltb3YudTMyIAklcjEwLCAlbnRpZC54Ow0KCW1vdi51MzIgCSVyMTEsICVjdGFpZC54Ow0KCW1vdi51MzIgCSVyMTIsICV0aWQueDsNCgltYWQubG8uczMyIAklcjE2LCAlcjEwLCAlcjExLCAlcjEyOw0KCXNldHAuZ2UuczMyCSVwMSwgJXIxNiwgJXI5Ow0KCUAlcDEgYnJhIAlCQjFfMzsNCg0KCWN2dGEudG8uZ2xvYmFsLnUzMiAJJXIyLCAlcjg7DQoJY3Z0YS50by5nbG9iYWwudTMyIAklcjMsICVyNzsNCgltb3YudTMyIAklcjQsICVuY3RhaWQueDsNCg0KQkIxXzI6DQoJc2hsLmIzMiAJJXIxMywgJXIxNiwgMjsNCglhZGQuczMyIAklcjE0LCAlcjMsICVyMTM7DQoJbGQuZ2xvYmFsLmYzMiAJJWYyLCBbJXIxNF07DQoJc3ViLmYzMiAJJWYzLCAlZjIsICVmMTsNCgltdWwuZjMyIAklZjQsICVmMywgJWYzOw0KCWFkZC5zMzIgCSVyMTUsICVyMiwgJXIxMzsNCglzdC5nbG9iYWwuZjMyIAlbJXIxNV0sICVmNDsNCglhZGQuczMyIAklcjE2LCAlcjQsICVyMTY7DQoJc2V0cC5sdC5zMzIJJXAyLCAlcjE2LCAlcjk7DQoJQCVwMiBicmEgCUJCMV8yOw0KDQpCQjFfMzoNCglyZXQ7DQp9DQoNCgkvLyAuZ2xvYmwJbXVsdGlwbHlWZWN0b3INCi52aXNpYmxlIC5lbnRyeSBtdWx0aXBseVZlY3RvcigNCgkucGFyYW0gLnUzMiBtdWx0aXBseVZlY3Rvcl9wYXJhbV8wLA0KCS5wYXJhbSAudTMyIG11bHRpcGx5VmVjdG9yX3BhcmFtXzEsDQoJLnBhcmFtIC51MzIgbXVsdGlwbHlWZWN0b3JfcGFyYW1fMiwNCgkucGFyYW0gLnUzMiBtdWx0aXBseVZlY3Rvcl9wYXJhbV8zLA0KCS5wYXJhbSAudTMyIG11bHRpcGx5VmVjdG9yX3BhcmFtXzQsDQoJLnBhcmFtIC51MzIgbXVsdGlwbHlWZWN0b3JfcGFyYW1fNSwNCgkucGFyYW0gLnUzMiBtdWx0aXBseVZlY3Rvcl9wYXJhbV82DQopDQp7DQoJLnJlZyAucHJlZCAJJXA8Mz47DQoJLnJlZyAuZjMyIAklZjw0PjsNCgkucmVnIC5iMzIgCSVyPDIwPjsNCg0KDQoJbGQucGFyYW0udTMyIAklcjgsIFttdWx0aXBseVZlY3Rvcl9wYXJhbV8wXTsNCglsZC5wYXJhbS51MzIgCSVyOSwgW211bHRpcGx5VmVjdG9yX3BhcmFtXzJdOw0KCWxkLnBhcmFtLnUzMiAJJXIxMCwgW211bHRpcGx5VmVjdG9yX3BhcmFtXzRdOw0KCWxkLnBhcmFtLnUzMiAJJXIxMSwgW211bHRpcGx5VmVjdG9yX3BhcmFtXzZdOw0KCW1vdi51MzIgCSVyMTIsICVudGlkLng7DQoJbW92LnUzMiAJJXIxMywgJWN0YWlkLng7DQoJbW92LnUzMiAJJXIxNCwgJXRpZC54Ow0KCW1hZC5sby5zMzIgCSVyMTksICVyMTIsICVyMTMsICVyMTQ7DQoJc2V0cC5nZS5zMzIJJXAxLCAlcjE5LCAlcjExOw0KCUAlcDEgYnJhIAlCQjJfMzsNCg0KCWN2dGEudG8uZ2xvYmFsLnUzMiAJJXIyLCAlcjEwOw0KCWN2dGEudG8uZ2xvYmFsLnUzMiAJJXIzLCAlcjk7DQoJY3Z0YS50by5nbG9iYWwudTMyIAklcjQsICVyODsNCgltb3YudTMyIAklcjUsICVuY3RhaWQueDsNCg0KQkIyXzI6DQoJc2hsLmIzMiAJJXIxNSwgJXIxOSwgMjsNCglhZGQuczMyIAklcjE2LCAlcjMsICVyMTU7DQoJbGQuZ2xvYmFsLmYzMiAJJWYxLCBbJXIxNl07DQoJYWRkLnMzMiAJJXIxNywgJXI0LCAlcjE1Ow0KCWxkLmdsb2JhbC5mMzIgCSVmMiwgWyVyMTddOw0KCW11bC5mMzIgCSVmMywgJWYyLCAlZjE7DQoJYWRkLnMzMiAJJXIxOCwgJXIyLCAlcjE1Ow0KCXN0Lmdsb2JhbC5mMzIgCVslcjE4XSwgJWYzOw0KCWFkZC5zMzIgCSVyMTksICVyNSwgJXIxOTsNCglzZXRwLmx0LnMzMgklcDIsICVyMTksICVyMTE7DQoJQCVwMiBicmEgCUJCMl8yOw0KDQpCQjJfMzoNCglyZXQ7DQp9DQoNCg0K</PTXMODULE>
+  </PTXMODULES>
+  <BinaryModules />
+  <SourceCodes>
+    <SourceCodeFile ID="2dda601d-3e1b-4c6d-a957-a7940afb6866" Language="Cuda" Arch="sm_20">DQovLyBQYXJhbGxlbFNQU1MuRm9ybTENCmV4dGVybiAiQyIgX19nbG9iYWxfXyAgdm9pZCBhZGRWZWN0b3IoIGZsb2F0KiBhLCBpbnQgYUxlbjAsICBmbG9hdCogYiwgaW50IGJMZW4wLCAgZmxvYXQqIGMsIGludCBjTGVuMCwgaW50IE4pOw0KLy8gUGFyYWxsZWxTUFNTLkZvcm0xDQpleHRlcm4gIkMiIF9fZ2xvYmFsX18gIHZvaWQgcG93ZXJWZWN0b3IoIGZsb2F0KiBhLCBpbnQgYUxlbjAsICBmbG9hdCogYiwgaW50IGJMZW4wLCBmbG9hdCBjLCBpbnQgTik7DQovLyBQYXJhbGxlbFNQU1MuRm9ybTENCmV4dGVybiAiQyIgX19nbG9iYWxfXyAgdm9pZCBtdWx0aXBseVZlY3RvciggZmxvYXQqIGEsIGludCBhTGVuMCwgIGZsb2F0KiBiLCBpbnQgYkxlbjAsICBmbG9hdCogYywgaW50IGNMZW4wLCBpbnQgTik7DQoNCi8vIFBhcmFsbGVsU1BTUy5Gb3JtMQ0KZXh0ZXJuICJDIiBfX2dsb2JhbF9fICB2b2lkIGFkZFZlY3RvciggZmxvYXQqIGEsIGludCBhTGVuMCwgIGZsb2F0KiBiLCBpbnQgYkxlbjAsICBmbG9hdCogYywgaW50IGNMZW4wLCBpbnQgTikNCnsNCglmb3IgKGludCBpID0gdGhyZWFkSWR4LnggKyBibG9ja0lkeC54ICogYmxvY2tEaW0ueDsgaSA8IE47IGkgKz0gZ3JpZERpbS54KQ0KCXsNCgkJY1soaSldID0gYVsoaSldICsgYlsoaSldOw0KCX0NCn0NCi8vIFBhcmFsbGVsU1BTUy5Gb3JtMQ0KZXh0ZXJuICJDIiBfX2dsb2JhbF9fICB2b2lkIHBvd2VyVmVjdG9yKCBmbG9hdCogYSwgaW50IGFMZW4wLCAgZmxvYXQqIGIsIGludCBiTGVuMCwgZmxvYXQgYywgaW50IE4pDQp7DQoJZm9yIChpbnQgaSA9IHRocmVhZElkeC54ICsgYmxvY2tJZHgueCAqIGJsb2NrRGltLng7IGkgPCBOOyBpICs9IGdyaWREaW0ueCkNCgl7DQoJCWJbKGkpXSA9IChhWyhpKV0gLSBjKSAqIChhWyhpKV0gLSBjKTsNCgl9DQp9DQovLyBQYXJhbGxlbFNQU1MuRm9ybTENCmV4dGVybiAiQyIgX19nbG9iYWxfXyAgdm9pZCBtdWx0aXBseVZlY3RvciggZmxvYXQqIGEsIGludCBhTGVuMCwgIGZsb2F0KiBiLCBpbnQgYkxlbjAsICBmbG9hdCogYywgaW50IGNMZW4wLCBpbnQgTikNCnsNCglmb3IgKGludCBpID0gdGhyZWFkSWR4LnggKyBibG9ja0lkeC54ICogYmxvY2tEaW0ueDsgaSA8IE47IGkgKz0gZ3JpZERpbS54KQ0KCXsNCgkJY1soaSldID0gYVsoaSldICogYlsoaSldOw0KCX0NCn0NCg==</SourceCodeFile>
+  </SourceCodes>
+  <Functions>
+    <CudafyKernelMethod Name="addVector" Type="Global" IsDummy="false" DummyBehaviour="Default">
+      <Type>ParallelSPSS.Form1</Type>
+      <Assembly>ParallelSPSS, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</Assembly>
+      <AssemblyName>ParallelSPSS</AssemblyName>
+      <AssemblyPath>C:\Users\Anggara\Videos\ParallelSPSS\bin\Debug\ParallelSPSS.exe</AssemblyPath>
+      <Checksum>3006969962</Checksum>
+      <Parameters>
+        <ReturnType>System.Void</ReturnType>
+        <Parameter Type="Cudafy.GThread" Name="thread" Position="0" />
+        <Parameter Type="System.Single[]" Name="a" Position="1" />
+        <Parameter Type="System.Single[]" Name="b" Position="2" />
+        <Parameter Type="System.Single[]" Name="c" Position="3" />
+        <Parameter Type="System.Int32" Name="N" Position="4" />
+      </Parameters>
+    </CudafyKernelMethod>
+    <CudafyKernelMethod Name="powerVector" Type="Global" IsDummy="false" DummyBehaviour="Default">
+      <Type>ParallelSPSS.Form1</Type>
+      <Assembly>ParallelSPSS, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</Assembly>
+      <AssemblyName>ParallelSPSS</AssemblyName>
+      <AssemblyPath>C:\Users\Anggara\Videos\ParallelSPSS\bin\Debug\ParallelSPSS.exe</AssemblyPath>
+      <Checksum>3006969962</Checksum>
+      <Parameters>
+        <ReturnType>System.Void</ReturnType>
+        <Parameter Type="Cudafy.GThread" Name="thread" Position="0" />
+        <Parameter Type="System.Single[]" Name="a" Position="1" />
+        <Parameter Type="System.Single[]" Name="b" Position="2" />
+        <Parameter Type="System.Single" Name="c" Position="3" />
+        <Parameter Type="System.Int32" Name="N" Position="4" />
+      </Parameters>
+    </CudafyKernelMethod>
+    <CudafyKernelMethod Name="multiplyVector" Type="Global" IsDummy="false" DummyBehaviour="Default">
+      <Type>ParallelSPSS.Form1</Type>
+      <Assembly>ParallelSPSS, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</Assembly>
+      <AssemblyName>ParallelSPSS</AssemblyName>
+      <AssemblyPath>C:\Users\Anggara\Videos\ParallelSPSS\bin\Debug\ParallelSPSS.exe</AssemblyPath>
+      <Checksum>3006969962</Checksum>
+      <Parameters>
+        <ReturnType>System.Void</ReturnType>
+        <Parameter Type="Cudafy.GThread" Name="thread" Position="0" />
+        <Parameter Type="System.Single[]" Name="a" Position="1" />
+        <Parameter Type="System.Single[]" Name="b" Position="2" />
+        <Parameter Type="System.Single[]" Name="c" Position="3" />
+        <Parameter Type="System.Int32" Name="N" Position="4" />
+      </Parameters>
+    </CudafyKernelMethod>
+  </Functions>
+  <Constants />
+  <Types />
+</CudafyModule>
